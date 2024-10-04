@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying Visual Computing & Games Technology
+- 🔭 I completed my Master's in Visual Computing & Games Technology.
 
 
 <!--
